@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMR51460SQDRRRQ1
+D Switching Voltage Regulators Automotive, 36V, 5A Synchronous buck converter with low Iq
+K
+F https://www.ti.com/lit/ds/symlink/lmr51460-q1.pdf?ts=1736319311098&ref_url=https%253A%252F%252Fwww.mouser.in%252F
+$ENDCMP
+#
+#End Doc Library
